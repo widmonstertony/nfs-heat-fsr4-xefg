@@ -1,0 +1,12 @@
+/payload/**/*.dll
+/payload/**/*.asi
+/dist/
+/build/
+/runtime/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.log
+*.backup
+active-install.json

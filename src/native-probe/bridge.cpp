@@ -1,0 +1,20 @@
+// Copyright (c) 2026 widmonstertony. MIT licensed.
+#define HEAT_PUBLIC_BUILD
+#define HEAT_PLAY_SESSION
+#define HEAT_BACKEND_FRAME_LIMIT 0xffffffffu
+#define HEAT_DRIVING_TAA
+#define HEAT_FINAL_SR
+#define HEAT_FG_NO_STATE_SWAP
+#define HEAT_FG_ARMED_TEST
+#define HEAT_FG_EXPLICIT_COMPUTE_STATE
+#define HEAT_FG_FIX_SWAPCHAIN_USAGE
+#define HEAT_FG_FACTORY_OBSERVE
+#define HEAT_FG_GAME
+#define HEAT_DISPLAY_TEST
+#define HEAT_SHADOW_LONG
+#define HEAT_SHADOW_DELAYED
+#define HEAT_SHADOW_BACKEND
+#define HEAT_SHADER_CAPTURE_V5
+#define HEAT_SHADER_CAPTURE_V4
+#define HEAT_SHADER_CAPTURE
+#include "heat_d3d11_probe.cpp"
